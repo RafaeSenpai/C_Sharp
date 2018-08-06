@@ -1,0 +1,10 @@
+C:\Users\Rafael\Documents\GitHub\C#\D2CalculadoraBasica_V2\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.csprojAssemblyReference.cache
+C:\Users\Rafael\Documents\GitHub\C#\D2CalculadoraBasica_V2\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.Form1.resources
+C:\Users\Rafael\Documents\GitHub\C#\D2CalculadoraBasica_V2\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.Properties.Resources.resources
+C:\Users\Rafael\Documents\GitHub\C#\D2CalculadoraBasica_V2\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.csproj.GenerateResource.cache
+C:\Users\Rafael\Documents\GitHub\C#\D2CalculadoraBasica_V2\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\GitHub\C#\D2CalculadoraBasica_V2\CalculadoraV2\CalculadoraV2\bin\Debug\CalculadoraV2.exe.config
+C:\Users\Rafael\Documents\GitHub\C#\D2CalculadoraBasica_V2\CalculadoraV2\CalculadoraV2\bin\Debug\CalculadoraV2.exe
+C:\Users\Rafael\Documents\GitHub\C#\D2CalculadoraBasica_V2\CalculadoraV2\CalculadoraV2\bin\Debug\CalculadoraV2.pdb
+C:\Users\Rafael\Documents\GitHub\C#\D2CalculadoraBasica_V2\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.exe
+C:\Users\Rafael\Documents\GitHub\C#\D2CalculadoraBasica_V2\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.pdb
